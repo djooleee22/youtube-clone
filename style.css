@@ -39,6 +39,7 @@ nav {
     padding: 5px;
     border: 1px solid grey;
     width: 300px;
+    border-radius: 5px;
 }
 
 .search {
